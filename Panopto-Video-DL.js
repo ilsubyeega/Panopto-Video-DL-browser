@@ -20,7 +20,6 @@
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
 // @grant        GM_openInTab
-// @noframes
 // ==/UserScript==
 
 (function() {
